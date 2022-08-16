@@ -6,3 +6,11 @@ p{
     color: green;
     font-family: 'Courier New', Courier, monospace;
 } 
+
+button#clique-aqui {
+    background-color: black;
+    color: greenyellow;
+    border: 1px dashed greenyellow;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
